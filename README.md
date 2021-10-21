@@ -33,7 +33,7 @@ Example: The list `["Hello", "World", "in", "a", "frame"]` gets printed as:
 
 Thoughts: Input could either be hard-coded, or user supplied via a file of command line, etc. To add difficulty to the problem, you could ask the user if they'd like their words let aligned or right aligned. (Center aligned for even more difficulty.) 
 
-> #2 Write a program that plays Hangman. 
+> #2 Write a program that plays 'Spaceman'. In this game, the player must guess a mystery word represented by dashes by selected letters they think make up that word. 
  
 Thoughts: You can use a large dictionary like this and select the letter that excludes most words that are still possible solutions. 
 Try to make the program as efficient as possible, i.e. don’t scan the whole dictionary in every turn.
